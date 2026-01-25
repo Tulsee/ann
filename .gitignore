@@ -1,0 +1,6 @@
+.venv/
+alzheimer_resnet50_final.pth
+alzheimer_vgg16_final.pth
+best_resnet50.pth
+best_vgg16.pth
+data/
